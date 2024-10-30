@@ -1,7 +1,7 @@
 
 
 from django.test import TestCase
-from .models import User, Cryptocurrency, Order
+from .models import User, Cryptocurrency
 from .services import OrderService
 
 
